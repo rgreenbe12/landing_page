@@ -1,0 +1,22 @@
+.colorgraph {
+  height: 5px;
+  border-top: 0;
+  background: #c4e17f;
+  border-radius: 5px;
+ 
+}
+
+#username-message {
+	margin-left: 20px;
+	width: 200px;
+	background-color: yellow;
+	border: 2px solid red;
+	height: 80px;
+
+
+}
+
+.polarbear {
+	display: none;
+
+}
